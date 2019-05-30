@@ -1,8 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7124ba9e-a877-412d-bbe1-41fdb0c16e90" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="7124ba9e-a877-412d-bbe1-41fdb0c16e90" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/cases/index (副本).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cases/index (另一个副本).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cases/index (第3个副本).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cases/index (第4个复件).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1-1Z1221151590-L.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/banner3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/banner4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/banner5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/banner_about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/banner_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon_more_news.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon_tel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jj_case1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jj_case2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jj_case3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jj_case4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jj_case5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jj_case6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jj_case7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jj_case8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jj_case9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jj_casea.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mobile_APP_shape01.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mobile_APP_shape02.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mobile_APP_shape03.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mobile_img01.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mobile_img02.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mobile_img03.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/nav_fot1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/nav_fot2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/nav_fot3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic_about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic_about1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic_about2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic_about3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic_zplc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/service_project01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/service_project02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/service_project03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/service_project04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/service_scope01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/service_scope02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/service_scope03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/service_scope04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/service_scope05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/service_scope06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/title_about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/title_case.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/title_contact.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/title_news.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wap/images/goback.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/css_19fd77323a7549be828ac5b032c96d9d.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/iconfont.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/iconfont.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/iconfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/css/iconfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/iconfont_27767fc316d642f1b1a5799aac8f9917.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/iconfont_2e28847a07f848a4924417e20e9965a1.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/iconfont_2ef51970c4fa4fd0aeeae777b0f59997.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/iconfont_3c6df05ebb184e6fad9dd692575a89ee.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/iconfont_54b93df602d8409d85019e259f961342.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/iconfont_55f9e35caacc41898fed8597603270bc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/iconfont_5fde4f9dbea741a5931d0601decc2c1c.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/iconfont_784387bee166490faf16ff377be554ea.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/iconfont_84ceca6498e94f3ebdf7d76162499ae8.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/iconfont_8b5ba6dd532e4283bce9b3e3640fc384.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/iconfont_9bccb188583f4ea691e00b00853bc929.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/iconfont_a206776125ec41fb81e836823ad4c00b.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/iconfont_bc6dd523d9304f8b933fe741db14f509.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/iconfont_cbc7cd31bc614ebc8557d881873ad426.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/iconfont_d0c031223a644e57848872cc6db9acd8.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/iconfont_fd9728b161404bb795234ce9cade0093.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/j_cn.woff" beforeDir="false" afterPath="$PROJECT_DIR$/css/j_cn.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/j_cn_07910ea3131e41f682574eadc524ef77.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/j_en.woff" beforeDir="false" afterPath="$PROJECT_DIR$/css/j_en.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/j_en_ea26d2f234684a6e9c0acb1b1117db75.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/j_web.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/j_web.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/jquery.jscrollpane_9be91c25d1d74657903ad5239e25eb0b.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/reset_2a6bcb9382994b338385e7a8c3c19199.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/reset_e30403d842144893854a821705eb6e1c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/web.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/web.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/web_11d4fd5743e644bc8334247df082721e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/web_3c238806e91f460db4c2b917abb47d5e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/web_c216dc346b724308882a02331fe96547.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/iconfont_03017b759bf343dcb9de3b5f64d035ac.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/iconfont_a79c2671846d461690b2d7841762070f.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/iconfont_d4963d41b93149dc956ece03fe867d79.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index_01_84ca25f4c91b4cbfb1f4e0ca8ef1b234.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index_01_c7698e93f6434786ae2c32ec0eddfd90.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index_38_7762dad5ce3e4eae85465c39317c2939.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index_42_4855f7c4197945868681195b95b43375.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index_43_ed605cb88e7a4d858e5d65395bd4b096.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index_43a_b64fbef0234648fcb80d74f1384dc3cd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index_44_83e9f548a57b4adcbe09b48c294229ed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index_47_126f59a2f6ef430b89a6b88326d3a77a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index_48C_dc1b692c4b004367a22a5b447abe87ae.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index_48_aa921f2019e64af9bd4e2d7066b608d5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index_48a_de6030fbf1474093b008fd6924e199c3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index_48b_40dd2f0ab4994637bdbfae50a1b483b6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index_49_367da45a5daf4356853e41ad020f02d4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index_51_554dd4f3a1fd4e6ab087f7eb33ac68cb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index_54_a5bbcdcf16db44e4bbd0f0057f511ef8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jQueryRotate.2.2_09755bdaecea4898bbf8157557fed55c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/j_sjc_eea903b4e2de435491629f7d4f42b83b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/j_web_index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/j_web_index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-1.9.1.min_13542b412675456d9dc244f68b581979.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-1.9.1_598b4313694449188ce052520ba42852.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.easing.min_b2e91700e1d84f669a625f18058b28c0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.jscrollpane.min_837f58be57e94f97a7bb5d3c3f289a28.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.mousewheel_63f4d75e895d479bac18b9791d16be4b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/js_029ba17eb22e4a35aee526501e39111c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jsdy_87dea72580f14ec38d49006b3a2d2a7d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/tj_46dac5afd0344299bae18309307c1ef4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/tj_8ea850f0fe5e4ea082312197c821ccf9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service.html" beforeDir="false" afterPath="$PROJECT_DIR$/service.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,18 +131,144 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/j_web_index.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wap/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="65" selection-start-line="65" selection-end-line="84" />
+            <state relative-caret-position="655">
+              <caret line="54" column="200" selection-start-line="54" selection-start-column="200" selection-end-line="54" selection-end-column="200" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#section#2;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#article#0;n#section#0;n#section#2;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#strong#0;n#p#0;n#article#0;n#section#0;n#section#2;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#section#0;n#section#2;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#section#3;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#article#0;n#div#0;n#section#0;n#section#4;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wap/css/app.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="112" column="21" selection-start-line="112" selection-start-column="21" selection-end-line="112" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wap/css/app1.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2788">
+              <caret line="164" column="96" selection-start-line="164" selection-start-column="90" selection-end-line="164" selection-end-column="96" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wap/css/iconfont.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" selection-start-line="39" selection-end-line="39" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/css.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-81002">
+              <caret line="67" column="18" lean-forward="true" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/iconfont.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2169">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/j_web.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1530" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/reset.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-357" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/web.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-20502" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wap/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="61" column="201" lean-forward="true" selection-start-line="57" selection-start-column="3" selection-end-line="61" selection-end-column="201" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#div#0;n#article#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#2;n#article#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#3;n#article#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#article#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#4;n#article#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#5;n#article#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#5;n#article#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>185</find>
+      <find>/wap.php/home/content</find>
+      <find>凡高</find>
+      <find>/uploads/allimg/190524/</find>
+      <find>/uploads/allimg/</find>
+      <find>@font-face</find>
+      <find>029-88630511</find>
+      <find>map_look</find>
+      <find>qq</find>
+      <find>西安</find>
+      <find>p</find>
+      <find>加入</find>
+      <find>加入我们</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>../wap</replace>
+      <replace>../../images/</replace>
+      <replace>18520188787</replace>
+      <replace>尖端</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,7 +276,35 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/wap/css/iconfont.css" />
+        <option value="$PROJECT_DIR$/wap/font/iconfont.css" />
+        <option value="$PROJECT_DIR$/wap/css/amazeui.min.css" />
+        <option value="$PROJECT_DIR$/wap/css/iconfont.woff" />
+        <option value="$PROJECT_DIR$/wap/css/fontawesome-webfont.woff" />
+        <option value="$PROJECT_DIR$/wap/css/fontawesome-webfont.woff2" />
+        <option value="$PROJECT_DIR$/css/j_cn.woff" />
+        <option value="$PROJECT_DIR$/css/j_en.woff" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/service.html" />
+        <option value="$PROJECT_DIR$/wap/service.html" />
         <option value="$PROJECT_DIR$/js/j_web_index.js" />
+        <option value="$PROJECT_DIR$/css/iconfont.css" />
+        <option value="$PROJECT_DIR$/wap/about.html" />
+        <option value="$PROJECT_DIR$/wap/plan.html" />
+        <option value="$PROJECT_DIR$/wap/server.html" />
+        <option value="$PROJECT_DIR$/wap/wap.html" />
+        <option value="$PROJECT_DIR$/wap/cases/catid/2.html" />
+        <option value="$PROJECT_DIR$/wap/cases/catid/13.html" />
+        <option value="$PROJECT_DIR$/wap/cases/catid/14.html" />
+        <option value="$PROJECT_DIR$/wap/cases/catid/16.html" />
+        <option value="$PROJECT_DIR$/wap/cases/catid/34.html" />
+        <option value="$PROJECT_DIR$/wap/contact.html" />
+        <option value="$PROJECT_DIR$/wap/index.html" />
+        <option value="$PROJECT_DIR$/wap/css/app1.css" />
+        <option value="$PROJECT_DIR$/css/j_web.css" />
+        <option value="$PROJECT_DIR$/css/web.css" />
+        <option value="$PROJECT_DIR$/wap/css/app.css" />
       </list>
     </option>
   </component>
@@ -55,7 +330,37 @@
             <path>
               <item name="topj-tech.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="topj-tech.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="topj-tech.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="topj-tech.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="wap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="topj-tech.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="topj-tech.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="wap" type="462c0819:PsiDirectoryNode" />
+              <item name="cases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="topj-tech.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="topj-tech.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="wap" type="462c0819:PsiDirectoryNode" />
+              <item name="cases" type="462c0819:PsiDirectoryNode" />
+              <item name="catid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="topj-tech.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="topj-tech.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="wap" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="topj-tech.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="topj-tech.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="wap" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -68,9 +373,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wap/images" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wap/images" />
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -94,27 +405,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559053732851</updated>
-      <workItem from="1559053734027" duration="18000" />
+      <workItem from="1559053734027" duration="779000" />
+      <workItem from="1559091633677" duration="562000" />
+      <workItem from="1559221413452" duration="10293000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1559053788388</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559053788388</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18000" />
+    <option name="totallyTimeSpent" value="11634000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1007" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25641027" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -122,23 +438,392 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/fontawesome-webfont.woff2">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/css/fontawesome-webfont.woff2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="815">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/iconfont.woff">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/j_cn.woff">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="815">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/j_en.woff">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="220" column="44" selection-start-line="220" selection-start-column="44" selection-end-line="220" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12889">
+          <caret line="47" column="68" selection-start-line="47" selection-start-column="59" selection-end-line="47" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/culture.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2081" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/service.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#dt#0;n#dl#0;n#div#0;n#div#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#dd#0;n#dl#0;n#div#0;n#div#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#dd#0;n#dl#0;n#div#0;n#div#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#2;n#dd#0;n#dl#0;n#div#0;n#div#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#0;n#div#1;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#0;n#div#1;n#div#3;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#0;n#div#1;n#div#4;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#0;n#div#1;n#div#5;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#0;n#div#1;n#div#6;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#6;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#7478#7484#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/images/service_project01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/j_web_index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="65" selection-start-line="65" selection-end-line="84" />
+        <state relative-caret-position="619">
+          <caret line="78" column="31" selection-start-line="78" selection-start-column="31" selection-end-line="78" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/images/nav_fot1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/images/mobile_img03.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/images/nav_fot2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/images/nav_fot3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/images/pic_about.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/images/pic_about1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/images/pic_about2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/images/pic_team1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/advantage_01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/advantage_06.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/advantage_05.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/advantage_04.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/advantage_03.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/advantage_02.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/ban_r.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/images/goback.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/ban_l.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/ban1_zi.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/cases/catid/2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="95" column="21" selection-start-line="95" selection-start-column="21" selection-end-line="95" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/cases/catid/13.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="95" column="13" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/cases/catid/14.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="95" column="13" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/cases/catid/16.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="96" column="13" selection-start-line="96" selection-start-column="13" selection-end-line="96" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/cases/catid/34.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="96" column="13" selection-start-line="96" selection-start-column="13" selection-end-line="96" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#section#0;n#div#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="140" column="164" lean-forward="true" selection-start-line="139" selection-start-column="8" selection-end-line="140" selection-end-column="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/wechat.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/server.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="37" column="69" selection-start-line="37" selection-start-column="69" selection-end-line="37" selection-end-column="69" />
+          <folding>
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/plan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="37" column="69" selection-start-line="37" selection-start-column="69" selection-end-line="37" selection-end-column="69" />
+          <folding>
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/wap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="37" column="56" selection-start-line="37" selection-end-line="38" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#dd#0;n#dl#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#dd#0;n#dl#1;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-224">
+          <caret line="57" column="22" lean-forward="true" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#article#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#section#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#section#1;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="61" column="201" lean-forward="true" selection-start-line="57" selection-start-column="3" selection-end-line="61" selection-end-column="201" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#article#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#2;n#article#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#3;n#article#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#article#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#4;n#article#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#article#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#5;n#article#0;n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="655">
+          <caret line="54" column="200" selection-start-line="54" selection-start-column="200" selection-end-line="54" selection-end-column="200" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#section#2;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#article#0;n#section#0;n#section#2;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#strong#0;n#p#0;n#article#0;n#section#0;n#section#2;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#section#0;n#section#2;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#section#3;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#article#0;n#div#0;n#section#0;n#section#4;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/css/app1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2788">
+          <caret line="164" column="96" selection-start-line="164" selection-start-column="90" selection-end-line="164" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/css/iconfont.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" selection-start-line="39" selection-end-line="39" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81002">
+          <caret line="67" column="18" lean-forward="true" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/iconfont.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2169">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/j_web.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1530" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/web.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20502" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="112" column="21" selection-start-line="112" selection-start-column="21" selection-end-line="112" selection-end-column="21" />
         </state>
       </provider>
     </entry>

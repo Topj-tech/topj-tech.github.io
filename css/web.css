@@ -38,8 +38,8 @@ html,body{ width:100%; overflow-x:hidden;}
 #footer .up #bnt_link{ position:absolute; bottom: 50px; font-size:10px; font-family:"Times New Roman", Times, serif; right:-40px;}
 #footer .up #bnt_link i{ font-size:10px; }
 #footer .up .link_on{ overflow:visible; height: auto;}
-#footer .up .link_on h2{ width:100%; font-weight:bold; color:#f00;display:block;}
-#footer .up .link_on #bnt_link{ color: #f00; -moz-transform: rotate(-90deg);
+#footer .up .link_on h2{ width:100%; font-weight:bold; color: #16b9ff;display:block;}
+#footer .up .link_on #bnt_link{ color: #16b9ff; -moz-transform: rotate(-90deg);
 -webkit-transform: rotate(-90deg);
 -o-transform: rotate(90deg);
 -ms-transform: rotate(90deg);
@@ -604,7 +604,7 @@ about_content .f1{}
 #job_content .un { font-size:14px; line-height:30px; margin-bottom:40px; }
 #job_content .un h1{ font-size:18px; margin-bottom:10px;}
 #job_content .un strong{ color:#45444d; font-weight:bold;}
-#job_content .un strong:hover{ color:#F00; }
+#job_content .un strong:hover{ color: #1a8dff; }
 
 
 

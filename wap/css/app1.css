@@ -1,0 +1,215 @@
+/* Write your styles */
+@font-face {font-family: 'iconfont';
+    src: url('iconfont.eot'); /* IE9*/
+    src: url('iconfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('iconfont.woff') format('woff'), /* chrome、firefox */
+    url('iconfont.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    url('../images/iconfont.svg#iconfont') format('svg'); /* iOS 4.1- */
+}@font-face {font-family: 'iconfont';
+    src: url('iconfont.eot'); /* IE9*/
+    src: url('iconfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('iconfont.woff') format('woff'), /* chrome、firefox */
+    url('iconfont.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    url('../images/iconfont.svg#iconfont') format('svg'); /* iOS 4.1- */
+}
+.iconfont{
+    font-family:"iconfont" !important;
+    font-size:16px;font-style:normal;
+}
+.clear{ clear:both;}
+.color{ color: #09a2ff;}
+.t2{ text-indent: 2em;}
+.img_box img{ display:block; margin:0 auto; width:100%;}
+.text_sd{white-space: nowrap;overflow:hidden;text-overflow: ellipsis;}
+/*===========================header=============================*/
+#header{  position:fixed;  top:0; z-index:99999999999999;}
+#header .am-header-title{ color:#fff; font-size:18px; font-weight: normal;}
+#header .iconfont{ color:#000;}
+#logo{ margin: 0; }
+#logo img{width: 70%;}
+.bnt_raset{ background:none; border:none;}
+.bnt_raset i{ color:#fff;}
+#menu{ width:50%;}
+#menu li{ background:none;color: #EEE;text-align: center; padding:0;}
+#menu li a{ padding:0;}
+#menu li a:hover{ background:none; color:#fff;}
+#menu  .am-header{  line-height: 15px;}
+#menu .iconfont{ color:#fff;}
+
+
+#nav .am-list > li{  background: none; border-color:#3c3d3d;}
+#nav .am-list > li a{ padding:0; padding-left: 1rem; font-size:14px;}
+#nav .am-list > li ul{ padding:0 ;}
+#nav .am-list > li ul li{ padding:0 1rem; line-height: 3rem;}
+#nav .am-list > li ul li a{ font-size:12px; padding:0;}
+#nav .am-fr[class*="am-icon-"]{ color: #777;}
+.article{ position:relative; }
+#nav .doc-oc-demo3{ width:50px;}
+/*===========================footer=============================*/
+/*#footer_box{ padding: 0px; border-top:1px solid #acaeb0;}
+#footer_box .copyright{color:#646466; padding-bottom:35px; padding-top: 10px; font-size: 13px;}
+#footer{height:80px; background:#252527; }
+#footer ul{background:#252527; margin-top:1rem; }
+#footer li {height: 60px; }
+#footer li a{ display:block; }
+#footer span{ display:block; font-size:1.4rem;}
+#footer .am-icon{ font-size:2.3rem; margin-bottom: 1rem; padding-top:0; padding-top: 0px;line-height: 35px;}*/
+
+/*===========================index=============================*/
+#s_header{ z-index: 99; position:relative;}
+#banner{ background: #343434;}
+#banner .am-slider-default{ margin-bottom: 0;}
+#banner .am-control-nav{  display: none;}
+#index .s_title{ background: #09a2ff; color: #fff;}
+#index .s_title .am-titlebar{ margin-left:0 !important; }
+#index .s_title h2{ color:#fff; background: #c62b31; padding:0 1rem; font-weight: normal;}
+#index .s_title h2 img{ padding-right: 0.5rem; height: 17px;  top: -2px;  position: relative;}
+#index .s_title a{ color: #fff; padding: 0; font-size: 14px;}
+
+#s_news .am-titlebar{ margin-top: 0;}
+#s_news .am-tabs-d2 .am-tabs-nav{ background: none;}
+#s_news  .am-tabs-bd{ border: none; z-index: 1 !important;}
+#s_news .am-active{ background: none !important;}
+#s_news .am-tab-panel{ margin: 0; padding: 0;}
+#s_news  .top{ background: #fff;}
+#s_news  .top .am-g{ margin: 0; padding: 10px;}
+#s_news  .top li{ padding: 0;  list-style: none !important; }
+#s_news  .top li .am-u-sm-4{  padding: 0;}
+#s_news  .top  li  a img{ width: 100%;}
+#s_news  .top  h3 a{display:block; margin-top: -4px; color: #616265; font-size: 14px; white-space: nowrap;overflow:hidden;text-overflow: ellipsis; width: 100%; }
+#s_news  .top  li .am-list-item-text{overflow: hidden; font-size: 11px; text-overflow: ellipsis;  display: -webkit-box;  -webkit-box-orient: vertical;  line-height: 1.2em;  -webkit-line-clamp: 2;  max-height: 2.4em;}
+
+#s_news .un li { position: relative; border-top: 0; padding-left: 2rem; margin: 0; background: none; border-bottom: 1px dotted #dcdcdc;}
+#s_news .un li a{ color:#616265; font-size: 12px; padding: 0; padding-left: 0rem; padding-right: 90px; line-height: 3rem; border: none;  }
+#s_news .un li .icon_dd{ position: absolute; left:10px; top: 1.2rem; display:block; width:6px; height:6px; border-radius:50%; background:#ff1d00;}
+#s_news .un li span{ top:0.6rem;}
+#s_case{ margin :2rem 0;}
+#s_case .am-u-sm-6,#s_link .am-u-sm-6{  padding: 0 0.5rem;}
+
+#s_link{padding: 0 1rem; margin-bottom: 3rem;}
+#s_link { margin-bottom: 2rem;}
+#s_link .li{ margin-bottom: 1rem;  }
+#s_link .li a{  background: #f3f3f5; display: block;}
+#s_link .li a img{ width: 100%;}
+#s_link .li a h1{ color:#4c4c4c; font-size:14px; font-weight: normal;  display:block; height: 30px; margin: 0 auto; padding: 0; line-height:30px;  text-align: center; width: 90%; white-space: nowrap;overflow:hidden;text-overflow: ellipsis}
+
+/*============================内页=============================*/
+.nr_content {padding: 2rem 0;}
+.n_banner{ padding-top:49px;}
+#n_nav_list{ border-bottom:1px solid #acaeb0;}
+#n_nav_list li{ text-align: center; padding:1rem 0;}
+#n_nav_list li a{ color: #3d3d3d; text-align: center;}
+#n_nav_list li a:hover{ color: #1a8dff;}
+#n_nav_list .on a{ color: #1a8dff;}
+.n_nav { text-align:center; line-height:30px; background:#f4f5f9; }
+.n_nav .li{  border-bottom:1px solid #dcdddf; padding:0; margin:0; }
+.n_nav .li a{ display:block; width:100%;  border-bottom:3px solid #f4f5f9; background:#f4f5f9; color:#747476;  border-right:1px solid #dcdddf; font-size:1.4rem; }
+.n_nav .li a:hover{ background:#e1e2e4; border-bottom:3px solid #f3db21;}
+.n_nav .li .on{background:#e1e2e4; border-bottom:3px solid #f3db21;}
+.n_title { background:#f4f5f9; padding:1rem 0; }
+.n_title { background: #ecf0f5;  padding: 2rem 0; border-bottom: 1px solid #acaeb0;  }
+.n_title img{  display: block; margin: 0 auto;  height: 4rem;}
+
+
+/*============================公司简介=============================*/
+#n_gsjj{ padding: 0 1rem; font-size: 14px; line-height: 3rem;}
+
+/*============================发展历程=============================*/
+#n_fzlc{padding: 0 1rem;}
+#n_fzlc ul{ margin: -1rem 0; list-style: none; list-style-position: inside; padding: 0;}
+#n_fzlc ul li{ padding: 1rem 0;  border-bottom: 1px solid #e5e5e5;}
+#n_fzlc ul li:last-child{ border: none;}
+#n_fzlc ul li strong{ color: #0362b9; font-size: 15px; margin-bottom: 0.5rem; font-weight: normal; }
+#n_fzlc ul li p{ margin: 0; color: #727475; line-height: 3rem; font-size: 16px;}
+
+/*============================企业资质=============================*/
+#n_qyzz{padding: 0 1rem;}
+#n_qyzz .li{margin: 1rem auto;}
+/*============================团队风采=============================*/
+#n_team {padding: 0 1rem;}
+#n_team .am-list-news-default{ margin:0; margin-top:-1rem;}
+#n_team li:first-child{ border-top:none;}
+#n_team li h3{ padding:0; margin:0; line-height: 20px; display:block; white-space: nowrap;overflow:hidden;text-overflow: ellipsis; }
+#n_team .am-list-item-hd a{ font-size:14px;}
+#n_team .am-list-item-text{ font-size:12px;}
+/*============================大师风采=============================*/
+#n_team_ds{padding: 0 1rem;}
+#n_team_ds  .am-u-sm-6{  padding: 0.5rem;}
+#n_team_ds .li img{ width:100%;}
+#n_team_ds .li p{ text-align:center; margin:0; padding:0; padding-top:0.5rem;}
+#n_team_ds .li p strong{  font-size: 14px; font-weight:bold;  display:block; margin-bottom: 0.5rem;}
+#n_team_ds .li p span{ font-size: 12px; display: block; color: #595959; margin-bottom: 0.3rem; white-space: nowrap;overflow:hidden;text-overflow: ellipsis; }
+/*============================新闻中心=============================*/
+#n_news{padding: 0 1rem;}
+#n_news ul{ margin-top: -1rem; list-style: none; list-style-position: inside; padding: 0;}
+#n_news ul li{ padding: 1rem 0;  border-bottom: 1px solid #e5e5e5;}
+#n_news ul li h1 { display:block; white-space: nowrap;overflow:hidden;text-overflow: ellipsis; display:block; width:100%;}
+#n_news ul li h1 a{ font-weight:normal; font-size:16px; color:#4b4b4c;}
+#n_news ul li .more{ display:block;}
+#n_news ul li .more span{ display:block; box-sizing:border-box; width:50%; float:left; color:#afafb2; font-size:14px; }
+#n_news ul li .more a{ display:block; box-sizing:border-box; float:right; width:50%; text-align:right; font-size:14px;}
+/*===========================专利技术=============================*/
+#n_js{padding: 0 1rem;}
+#n_js .am-list-news-default{ margin:0; margin-top:-1rem;}
+#n_js li{  border-style: dotted !important;}
+#n_js li:first-child{ border-top:none; }
+#n_js li h3{ padding:0; margin:0; line-height: 20px; display:block; white-space: nowrap;overflow:hidden;text-overflow: ellipsis; }
+#n_js .am-list-item-hd a{ font-size:14px; color:#4c4b4b;}
+#n_js .am-list-item-text{ font-size:12px;}
+/*============================服务范围-勘察设计=============================*/
+#n_wyfw{padding: 0 1rem;}
+#n_wyfw ul{ padding: 0; margin-top: -1rem;}
+#n_wyfw ul li{ position: relative; display: block; margin: 1rem 0;}
+#n_wyfw ul li a{ display: block; }
+#n_wyfw ul li a img{ width:100%;  display: block; }
+/*#n_wyfw ul li a h1{ display:block; margin:0;position: absolute; bottom:0; left 0;filter:progid:DXImageTransform.Microsoft.gradient(enabled='true',startColorstr='#CC000000', endColorstr='#CC000000');background:rgba(0,0,0,0.8); width: 100%;}*/
+#n_wyfw ul li a h1 strong{display:block; text-align: center; font-weight:normal; font-size: 14px; height: 3rem; line-height: 3rem; width: 90%; color:#fff; }
+.page{ margin-top: 2rem;}
+.page .am-pagination{ margin-bottom: 0;}
+
+/*============================经典工程-工程案例=============================*/
+#n_case{padding: 0 1rem;}
+#n_case { margin-bottom: -2rem;}
+#n_case .li{ margin-bottom: 2rem;}
+#n_case .li a{  background: #f3f3f5; display: block;}
+#n_case .li a img{ width: 100%;}
+#n_case .li a h1{ color:#4c4c4c; font-size:12px; font-weight: normal;  display:block; height: 30px; margin: 0 auto; padding: 0; line-height:30px;  text-align: center; width: 90%; white-space: nowrap;overflow:hidden;text-overflow: ellipsis}
+
+
+/*============================服务范围-工程案例=============================*/
+#n_wyfw_gczx{padding: 0 1rem;}
+#n_wyfw_gczx .top img{ margin-bottom: 2rem; display: block; width: 100%;}
+#n_wyfw_gczx ul{ padding: 0; list-style: none;}
+#n_wyfw_gczx ul li{ padding: 1rem 0;  border-bottom: 1px solid #e5e5e5;}
+#n_wyfw_gczx ul li a{ font-size: 14px; display: block; color:#4c4b4b; }
+#go_web{ margin: 0 auto;  width: 50%; width: 50%; margin-bottom: 2rem; background: #ff1d00; border-radius: 3px;  display: block;}
+.my_bnt{ margin: 0 auto;  width: 50%; color:#fff; width: 50%; margin-bottom: 2rem; background: #ff1d00; border-radius: 3px;  display: block;}
+
+    /*============================服务范围详情=============================*/
+#n_wyfw_show{ padding: 0 1rem;}
+.ar_title{ text-align:center;  padding-bottom: 2rem; margin-bottom: 2rem;  border-bottom: 1px solid #e5e5e5;}
+.ar_title h1{color: #1a1919; font-size:18px; margin:0;}
+.ar_title h3{ font-weight: normal;  margin:0; color: #999797; padding-top:1rem; font-size:14px; }
+.ar_content{font-size: 14px; line-height: 3rem; padding: 2rem 0;}
+.ar_fot .page{ margin-top: 0;}
+.ar_fot .page a{ color: #767676; }
+
+/*============================客户反馈=============================*/
+#n_custem{padding: 0 1rem}
+#n_custem form label{ color: #797979; font-weight: normal; }
+#n_custem #submit{ background: #0a63bd; border-radius: 3px; width: 96%; display: block; margin: 0 auto; color:#fff;}
+
+/*============================人才招聘=============================*/
+#n_job{padding: 0 1rem}
+#n_job ul{ padding: 0; list-style: none;}
+#n_job li{padding: 1rem 0;  border-bottom: 1px dotted #e5e5e5;}
+#n_job li h1{ font-size: 16px;  display: block; margin: 0;}
+#n_job li h1 a{ color: #4c4b4b;  float: left; display:block; width: 50%;}
+#n_job li h1 em{ font-style:normal; display:block; width: 50%; color: #707070; text-align: right; float: right;}
+#n_job li span{font-size: 14px; line-height:30px;color:#4c4b4b; margin-bottom: 0.5rem;}
+#n_job li p{font-size: 14px; line-height:30px;color:#4c4b4b;  padding: 0; margin: 0;}
+
+#n_service .img_box img{  max-width: 40% !important;}
+#n_service h3{ display: block; text-align: center;}
+
+

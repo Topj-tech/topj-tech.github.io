@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
-<title>404 页面不存在 - 西安凡高科技</title>
-<link href="/templets/default/css/reset.css" type="text/css" rel="stylesheet">
-<link href="/templets/default/font/iconfont.css" type="text/css" rel="stylesheet">
-<link href="/templets/default/css/web.css" type="text/css" rel="stylesheet">
-<link href="/templets/default/css/small.css" type="text/css" rel="stylesheet">
-<script type="text/javascript" src="/templets/default/js/jquery-1.9.1.min.js"></script>
+<title>404 页面不存在 - 尖端科技</title>
+<link href="../css/reset.css" type="text/css" rel="stylesheet">
+<link href="../font/iconfont.css" type="text/css" rel="stylesheet">
+<link href="../css/web.css" type="text/css" rel="stylesheet">
+<link href="../css/small.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" src="../js/jquery-1.9.1.min.js"></script>
 <script type="text/javascript">
 	$(function(){
 		
@@ -36,7 +36,7 @@
 </script>
 <header id="header">
   <div class="main_box">
-    <div class="logo"> <a href="http://www.fgkj.cc/" ><img src="/templets/default/images/logo.png"  title="西安凡高网络科技有限公司"alt="西安凡高网络" border="0"></a> </div>
+    <div class="logo"> <a href="../index.html" ><img src=""  title="尖端网络科技有限公司"alt="尖端网络" border="0"></a> </div>
     <div class="right">
       <div id="search" class="fl">
           <form action="/plus/search.php" method="get">
@@ -48,14 +48,14 @@
             </label>
           </form>
       </div>
-      <nav id="nav" class="fl"> <a href="http://www.fgkj.cc" target="_blank" class="on">首页</a> <a href="/about.html">关于</a> <a href="/service/">流程</a> <a href="/cases/">案例</a> <a href="/news/">观点</a> <a href="/job.html">招聘</a> <a href="/contact.html">联系</a> </nav>
+      <nav id="nav" class="fl"> <a href="../index.html" target="_blank" class="on">首页</a> <a href="../about.html">关于</a> <a href="../service.html">流程</a> <a href="../cases.html">案例</a> <a href="../news.html">观点</a> <a href="../contact.html">联系</a> </nav>
 <div class="top_tel fl">
             <dl>
-                <dt id="bnt_tel"><a href="javascript:viod(0)">029-88630511</a><i class="iconfont"></i></dt>
+                <dt id="bnt_tel"><a href="javascript:viod(0)">18520188787</a><i class="iconfont"></i></dt>
                 <dd id="content_tel">
-                    <a href="javascript:viod(0)">029-88630511</a>
-                    <a href="javascript:viod(0)">029-88630511</a>
-                    <a href="javascript:viod(0)">15929975930</a>
+                    <a href="javascript:viod(0)">qq:193896055</a>
+                    <a href="javascript:viod(0)">qq:158467234</a>
+                    <a href="javascript:viod(0)">qq:569987210</a>
                 </dd>
             </dl>
       </div>
@@ -83,7 +83,7 @@
  
   
   <div class="un">
-    <h3>Copyright 2008-2017 西安凡高网络科技有限公司 ALL Rights Reserved. 地址：陕西·西安高新区唐延路25号(科技三路与唐延路十字)银河产业园3单元28层  陕ICP备07024853号 </h3>
+    <h3>Copyright 2018-2019 尖端网络科技有限公司 ALL Rights Reserved </h3>
   </div>
 </div><div class="clear"></div>
 </footer></body></html>

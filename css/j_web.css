@@ -14,10 +14,10 @@
 #n_fg2 .j_parallax { background-image: url(../images/bg_number_sjc.jpg);  height:380px;}
 #n_fg2 ul{ margin:0 -60px; }
 #n_fg2 li{ display:block; margin:70px 60px 0 60px; float:left; width:210px;}
-#n_fg2 li .number{ margin:0 auto; position:relative;  border-radius:10px; background:#ff1d00; height:210px; width:210px;}
+#n_fg2 li .number{ margin:0 auto; position:relative;  border-radius:10px; background: #09a2ff; height:210px; width:210px;}
 #n_fg2 li .number h2{ font-family:"Impact", Arial, Helvetica, sans-serif; line-height:210px; color:#fff; font-size: 120px; text-align:center; }
 #n_fg2 li .number #about_more{ position:absolute; right:20px; top:20px;}
-#n_fg2 li .number .line{ height:10px; display:block; background:#ff1d00; position:absolute; top:50%; z-index:16;width: 100%;}
+#n_fg2 li .number .line{ height:10px; display:block; background: #16b9ff; position:absolute; top:50%; z-index:16;width: 100%;}
 #n_fg2 li h1{ text-transform:lowercase;display:block; margin-top:30px; text-align:center; color:#fff; font-size:16px;}
  
 
@@ -94,7 +94,7 @@
 #fg_team .li9 img{ }
 #fg_team .li10{ right: 0; bottom: 0;   }
 #fg_team .li10 img{ }
-#fg_team .li11{ right: 305px; top: 385px; width: 590px; height: 350px; background: #ff1d00;}
+#fg_team .li11{ right: 305px; top: 385px; width: 590px; height: 350px; background: #1abbff;}
 #fg_team .li11 .box{ padding: 0; height: 350px;}
 #fg_team .li11 img{ display: block; margin:90px auto 0 auto;  }
 

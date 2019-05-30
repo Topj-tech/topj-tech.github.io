@@ -1,0 +1,57 @@
+
+@font-face {font-family: "j_iconfont";
+  src: url('../css/iconfont.eot'); /* IE9*/
+  src: url('../css/iconfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../css/iconfont.woff') format('woff'), /* chrome, firefox */
+  url('../css/iconfont.ttf') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('../images/iconfont.svg#j_iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.j_iconfont {
+  font-family:"j_iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-fangzi:before { content: "\e60d"; }
+.icon-fenlei:before { content: "\e600"; }
+.icon-wodeshouji:before { content: "\e611"; }
+.icon-moban:before { content: "\e601"; }
+.icon-fenlei1:before { content: "\e602"; }
+.icon-bianmin:before { content: "\e612"; }
+.icon-fankui:before { content: "\e603"; }
+.icon-iconfontlianjie:before { content: "\e613"; }
+.icon-dianhua:before { content: "\e614"; }
+.icon-phone:before { content: "\e615"; }
+.icon-fangzisolid:before { content: "\e60e"; }
+.icon-serve:before { content: "\e616"; }
+.icon-fenlei2:before { content: "\e604"; }
+.icon-jianzhizhaoping:before { content: "\e605"; }
+.icon-peiziiconfont09:before { content: "\e617"; }
+.icon-dianhua1:before { content: "\e618"; }
+.icon-shouji:before { content: "\e619"; }
+.icon-9:before { content: "\e60f"; }
+.icon-dianhua2:before { content: "\e61a"; }
+.icon-shu:before { content: "\e606"; }
+.icon-i:before { content: "\e607"; }
+.icon-fenlei3:before { content: "\e608"; }
+.icon-fangan:before { content: "\e61b"; }
+.icon-fuwu:before { content: "\e61c"; }
+.icon-toufangfangan:before { content: "\e61d"; }
+.icon-fangzi1:before { content: "\e610"; }
+.icon-kehu:before { content: "\e61e"; }
+.icon-icon:before { content: "\e61f"; }
+.icon-fuwu1:before { content: "\e620"; }
+.icon-anliguanli:before { content: "\e621"; }
+.icon-anli:before { content: "\e622"; }
+.icon-fankui1:before { content: "\e609"; }
+.icon-shouji1:before { content: "\e623"; }
+.icon-dingwei:before { content: "\e60a"; }
+.icon-jiantou-copy:before { content: "\e60b"; }
+.icon-kehu1:before { content: "\e624"; }
+.icon-jiantou:before { content: "\e60c"; }
+.icon-dianhua3:before { content: "\e625"; }
+.icon-dianhua4:before { content: "\e626"; }
+.icon-fangan1:before { content: "\e627"; }
