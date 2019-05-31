@@ -1,55 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7124ba9e-a877-412d-bbe1-41fdb0c16e90" name="Default Changelist" comment="">
+    <list default="true" id="7124ba9e-a877-412d-bbe1-41fdb0c16e90" name="Default Changelist" comment="no message">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/index (副本).html" beforeDir="false" afterPath="$PROJECT_DIR$/cases/list_2_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/index (另一个副本).html" beforeDir="false" afterPath="$PROJECT_DIR$/cases/list_2_3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/index (第3个副本).html" beforeDir="false" afterPath="$PROJECT_DIR$/cases/list_2_4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/index (第4个复件).html" beforeDir="false" afterPath="$PROJECT_DIR$/cases/list_2_5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/cases/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/iconfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/j_cn.eot" beforeDir="false" afterPath="$PROJECT_DIR$/css/j_cn.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/j_cn.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/css/j_cn.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/j_cn.woff" beforeDir="false" afterPath="$PROJECT_DIR$/css/j_cn.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/j_en.eot" beforeDir="false" afterPath="$PROJECT_DIR$/css/j_en.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/j_en.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/css/j_en.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/j_en.woff" beforeDir="false" afterPath="$PROJECT_DIR$/css/j_en.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/j_web.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/j_web.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/web.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/web.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/culture.html" beforeDir="false" afterPath="$PROJECT_DIR$/culture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/j_cn.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/j_cn.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/j_en.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/j_en.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo_0317c6431e3746be8599b4ff95b310131.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo_5191e6c3a58346e6aecc4b6f39d287581.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic_about1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic_about1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic_about2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic_about2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic_cultrue6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic_cultrue6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network.html" beforeDir="false" afterPath="$PROJECT_DIR$/network.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service.html" beforeDir="false" afterPath="$PROJECT_DIR$/service.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wap/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/wap/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wap/cases/catid/13.html" beforeDir="false" afterPath="$PROJECT_DIR$/wap/cases/catid/13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wap/cases/catid/14.html" beforeDir="false" afterPath="$PROJECT_DIR$/wap/cases/catid/14.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wap/cases/catid/16.html" beforeDir="false" afterPath="$PROJECT_DIR$/wap/cases/catid/16.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wap/cases/catid/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/wap/cases/catid/2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wap/cases/catid/34.html" beforeDir="false" afterPath="$PROJECT_DIR$/wap/cases/catid/34.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wap/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/wap/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wap/css/amazeui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wap/css/amazeui.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wap/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/wap/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wap/css/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/wap/css/fontawesome-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wap/css/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/wap/css/fontawesome-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wap/css/iconfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/wap/css/iconfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wap/images/pic_about1.png" beforeDir="false" afterPath="$PROJECT_DIR$/wap/images/pic_about1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wap/images/pic_about2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wap/images/pic_about2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wap/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/wap/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wap/plan.html" beforeDir="false" afterPath="$PROJECT_DIR$/wap/plan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wap/server.html" beforeDir="false" afterPath="$PROJECT_DIR$/wap/server.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wap/wap.html" beforeDir="false" afterPath="$PROJECT_DIR$/wap/wap.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,37 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wap/cases/catid/13.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="43" column="34" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
-              <folding>
-                <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wap/cases/catid/34.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2159">
-              <caret line="154" column="101" selection-start-line="154" selection-start-column="101" selection-end-line="154" selection-end-column="101" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#section#0;n#div#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wap/cases/catid/14.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -147,9 +70,34 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cases/list_2_5.html">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="37" column="8" lean-forward="true" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="206" column="108" selection-start-line="206" selection-start-column="94" selection-end-line="206" selection-end-column="108" />
+              <folding>
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#div#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -205,7 +153,6 @@
         <option value="$PROJECT_DIR$/wap/css/fontawesome-webfont.woff2" />
         <option value="$PROJECT_DIR$/css/j_cn.woff" />
         <option value="$PROJECT_DIR$/css/j_en.woff" />
-        <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/service.html" />
         <option value="$PROJECT_DIR$/wap/service.html" />
         <option value="$PROJECT_DIR$/css/iconfont.css" />
@@ -228,6 +175,7 @@
         <option value="$PROJECT_DIR$/wap/cases/catid/16.html" />
         <option value="$PROJECT_DIR$/wap/cases/catid/14.html" />
         <option value="$PROJECT_DIR$/css/j_cn.eot" />
+        <option value="$PROJECT_DIR$/contact.html" />
       </list>
     </option>
   </component>
@@ -254,7 +202,7 @@
             <path>
               <item name="topj-tech.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="topj-tech.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="cases" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -271,6 +219,9 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wap/images/img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/wap/images" />
       <recent name="$PROJECT_DIR$/css" />
@@ -316,11 +267,32 @@
       <option name="project" value="LOCAL" />
       <updated>1559232088502</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="no message">
+      <created>1559314066914</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559314066914</updated>
+    </task>
+    <task id="LOCAL-00004" summary="no message">
+      <created>1559314345788</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1559314345788</updated>
+    </task>
+    <task id="LOCAL-00005" summary="no message">
+      <created>1559316072863</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1559316072863</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17235000" />
+    <option name="totallyTimeSpent" value="18549000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1007" extended-state="6" />
@@ -412,18 +384,10 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="first commit" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="no message" />
+    <option name="LAST_COMMIT_MESSAGE" value="no message" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wap/images/service_project01.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wap/images/nav_fot1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wap/images/mobile_img03.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/wap/images/nav_fot2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -471,13 +435,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/images/ban1_zi.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="140" column="164" lean-forward="true" selection-start-line="139" selection-start-column="8" selection-end-line="140" selection-end-column="164" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/wechat.jpg">
       <provider selected="true" editor-type-id="images" />
@@ -759,8 +716,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/微123.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/cases/list_2_5.html">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/logo.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="37" column="8" lean-forward="true" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="206" column="108" selection-start-line="206" selection-start-column="94" selection-end-line="206" selection-end-column="108" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#div#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
