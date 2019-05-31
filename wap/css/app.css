@@ -110,8 +110,8 @@ html,body{ background: #fff; overflow-x: hidden;}
 /*=====================================================首页-start============================================================*/
 /*色块导航*/
 
-#s_nav { background: #a20841d1; position: relative;}
-#s_nav .j_iconfont{ position: absolute; top: 50%; margin-top: -10px; display: block; width: 20px; height: 20px; text-align: center; line-height: 19px; border-radius: 50%; color: #09bbff; background: rgba(255,255,255,.5); }
+#s_nav { background: #57b3e2; position: relative;}
+#s_nav .j_iconfont{ position: absolute; top: 50%; margin-top: -10px; display: block; width: 20px; height: 20px; text-align: center; line-height: 19px; border-radius: 50%; color: #57b3e2; background: rgba(255,255,255,.5); }
 #s_nav .j_iconfont.j_prev{left: 1rem;}
 #s_nav .j_iconfont.j_next{ right: 1rem; transform:rotate(180deg); line-height: 18px;}
 #s_nav ul{ margin:0rem -.5rem 0rem -.5rem; display: inherit; text-align: center; white-space: nowrap; overflow:scroll;}
@@ -151,7 +151,7 @@ html,body{ background: #fff; overflow-x: hidden;}
 .j_tab_news .am-tab-panel{padding: 0rem 0 0;}
 .j_tab_news .am-tabs-d2 .am-tabs-nav{ background: #fff;  margin: 0 -.3rem;}
 .j_tab_news .am-tabs-d2 .am-tabs-nav li{ height: 3rem;}
-.j_tab_news .am-tabs-d2 .am-tabs-nav > .am-active a{ color: #fff; background: #ff1d00;}
+.j_tab_news .am-tabs-d2 .am-tabs-nav > .am-active a{ color: #fff; background: #57b3e2;}
 .j_tab_news .am-tabs-d2 .am-tabs-nav > .am-active{ border: none;}
 .j_tab_news .am-tabs-d2 .am-tabs-nav>.am-active:after { display: none;}
 .j_tab_news .am-tabs-d2 .am-tabs-nav a{ height: 3rem; line-height:3rem; margin: 0 .3rem; color: #fff; border-radius: 3px; overflow: hidden; background: #393a3b; font-size: 13px;}
@@ -223,7 +223,15 @@ overflow: hidden;text-overflow: ellipsis;}
 .j_article img{ max-width:100%;  }
 .am-paragraph img{ max-width:100%; margin: .3rem auto;}
 
- 
+.bnt_raset {
+    background: none;
+    border: none;
+}
+#n_header .am-header-title {
+    color: #fff;
+    font-size: 18px;
+    font-weight: normal;
+}
 /*============================新闻中心=============================*/
 
  

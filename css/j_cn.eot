@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
-<title>404 页面不存在 - 西安凡高科技</title>
-<link href="/templets/default/css/reset.css" type="text/css" rel="stylesheet">
-<link href="/templets/default/font/iconfont.css" type="text/css" rel="stylesheet">
-<link href="/templets/default/css/web.css" type="text/css" rel="stylesheet">
-<link href="/templets/default/css/small.css" type="text/css" rel="stylesheet">
-<script type="text/javascript" src="/templets/default/js/jquery-1.9.1.min.js"></script>
+<title>404 页面不存在 - 科技</title>
+<link href="../css/reset.css" type="text/css" rel="stylesheet">
+<link href="../font/iconfont.css" type="text/css" rel="stylesheet">
+<link href="../css/web.css" type="text/css" rel="stylesheet">
+<link href="../css/small.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" src="../js/jquery-1.9.1.min.js"></script>
 <script type="text/javascript">
 	$(function(){
 		
@@ -36,7 +36,7 @@
 </script>
 <header id="header">
   <div class="main_box">
-    <div class="logo"> <a href="http://www.fgkj.cc/" ><img src="/templets/default/images/logo.png"  title="西安凡高网络科技有限公司"alt="西安凡高网络" border="0"></a> </div>
+    <div class="logo"> <a href="../index.html" ><img src="../images/logo.png"  title="网络科技有限公司"alt="网络" border="0"></a> </div>
     <div class="right">
       <div id="search" class="fl">
           <form action="/plus/search.php" method="get">
@@ -83,7 +83,7 @@
  
   
   <div class="un">
-    <h3>Copyright 2008-2017 西安凡高网络科技有限公司 ALL Rights Reserved. 地址：陕西·西安高新区唐延路25号(科技三路与唐延路十字)银河产业园3单元28层  陕ICP备07024853号 </h3>
+    <h3>Copyright 2008-2017 网络科技有限公司 ALL Rights Reserved. 地址： </h3>
   </div>
 </div><div class="clear"></div>
 </footer></body></html>

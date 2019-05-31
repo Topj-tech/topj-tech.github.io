@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
-<title>404 页面不存在 - 尖端科技</title>
+<title>404 页面不存在 - 科技</title>
 <link href="../css/reset.css" type="text/css" rel="stylesheet">
 <link href="../font/iconfont.css" type="text/css" rel="stylesheet">
 <link href="../css/web.css" type="text/css" rel="stylesheet">
@@ -36,7 +36,7 @@
 </script>
 <header id="header">
   <div class="main_box">
-    <div class="logo"> <a href="../index.html" ><img src=""  title="尖端网络科技有限公司"alt="尖端网络" border="0"></a> </div>
+    <div class="logo"> <a href="../index.html" ><img src=""  title="网络科技有限公司"alt="网络" border="0"></a> </div>
     <div class="right">
       <div id="search" class="fl">
           <form action="/plus/search.php" method="get">
@@ -83,7 +83,7 @@
  
   
   <div class="un">
-    <h3>Copyright 2018-2019 尖端网络科技有限公司 ALL Rights Reserved </h3>
+    <h3>Copyright 2018-2019 网络科技有限公司 ALL Rights Reserved </h3>
   </div>
 </div><div class="clear"></div>
 </footer></body></html>
